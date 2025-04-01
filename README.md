@@ -17,11 +17,11 @@
   - Mockito *
   - MockMvc -
   - Selenium WebDriver
-  - REST Assured -
+  - REST Assured 
   - Cucumber (BDD) -
 
 - **API-тестирование:**
-  - REST Assured -
+  - REST Assured 
   - Postman (с интеграцией Newman) -
 
 - **Тестирование производи тельности:**
