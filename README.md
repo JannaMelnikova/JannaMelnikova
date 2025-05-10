@@ -13,9 +13,9 @@
 - **Тестирование:**
   - JUnit
   - TestNG -
-  - Spring Boot Test -
+  - Spring Boot Test 
   - Mockito *
-  - MockMvc -
+  - MockMvc 
   - Selenium WebDriver
   - REST Assured 
   - Cucumber (BDD) -
